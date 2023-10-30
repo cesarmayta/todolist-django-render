@@ -1,0 +1,6 @@
+paso1 
+pip install -r requirements.txt
+paso 2
+python manage.py migrate
+paso 3
+python manage.py runserver

@@ -1,2 +1,2 @@
-# todolist-django-render
-todolist api rest with django on render.com
+# tareas-render
+api rest con django para tareas
